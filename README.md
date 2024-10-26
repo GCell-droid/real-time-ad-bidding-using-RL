@@ -9,16 +9,6 @@ This project implements a reinforcement learning-based approach to optimize bidd
 
 
 
-## Installation
-To set up the project, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/real-time-bidding-rl.git
-
-# Navigate to the project directory
-cd real-time-bidding-rl
-
 # Team Members
 Chitransh Kumar (202211015)
 Kartik Chugh (202211038)
