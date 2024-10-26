@@ -9,8 +9,9 @@ This project implements a reinforcement learning-based approach to optimize bidd
 
 
 
-# Team Members
-Chitransh Kumar (202211015)
-Kartik Chugh (202211038)
-Kushagra Taneja (202211042)
-Nitesh Parihar (202211058)
+## Team Members
+- **Chitransh Kumar** (202211015)
+- **Kartik Chugh** (202211038)
+- **Kushagra Taneja** (202211042)
+- **Nitesh Parihar** (202211058)
+
